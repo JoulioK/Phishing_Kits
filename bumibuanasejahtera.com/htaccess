@@ -1,0 +1,417 @@
+deny from 216.32.73.122 # stealth bot
+
+deny from 63.160.77.236 # stealth bot
+
+deny from 12.44.181.220 # unknown bot
+
+deny from 12.44.172.92 # stealth bot
+
+deny from 139.18.2. # findlinks bot
+
+deny from 70.85.193.178 # unknown bot
+
+deny from 82.80. # israel
+
+deny from 149.20.54.229
+
+deny from 82.81.
+
+deny from 74.123.104.18
+
+deny from 213.180.128. # poland
+
+deny from 213.180.129.
+
+deny from 213.180.130.
+
+deny from 213.180.131.
+
+deny from 66.150.55.230 # findwhat.com stealth bot
+
+deny from 67.15.175.114 # unknown bot
+
+deny from 217.113.244.119 # spanish SE
+
+deny from 194.224.199. # private spanish server
+
+deny from 81.19.66. # russia
+
+deny from 213.176.126. # iran
+
+deny from 208.223.208.181 # security-lab1.juniper.net
+
+deny from 208.223.208.182
+
+deny from 208.223.208.183
+
+deny from 123.252.193.20
+
+deny from 208.223.208.184
+
+deny from 208.223.208.185
+
+deny from 67.167.114.21 # BS law-x.com scraper site bot
+
+deny from 194.44.42. # ukraine
+
+deny from 209.203.192. # Expedite Marketing
+
+deny from 209.203.193.
+
+deny from 209.203.194.
+
+deny from 209.203.195.
+
+deny from 209.203.196.
+
+deny from 209.203.197.
+
+deny from 209.203.198.
+
+deny from 209.203.199.
+
+deny from 209.203.200.
+
+deny from 209.203.201.
+
+deny from 209.203.202.
+
+deny from 209.203.203.
+
+deny from 209.203.204.
+
+deny from 209.203.205.
+
+deny from 209.203.206.
+
+deny from 209.203.207.
+
+deny from 64.62.175. # unknown bandwidth sucker
+
+deny from 219.136.171. # china unknown bot
+
+deny from 216.150.24.122 # sonicleads.com spambot
+
+deny from 216.150.24.123
+
+deny from 210.14.32. # annoying philipines spammer
+
+deny from 220.132.126. # taiwan useragent = 3
+
+deny from 66.194.6. # websense.com bandwidth waster
+
+deny from 12.17.130.27 # sitesucker
+
+deny from 65.164.129.91
+
+deny from 207.155.199.163
+
+deny from 208.252.91.3
+
+deny from 198.54. # south africa scams, spam, etc
+
+deny from 66.132.132.63 # securityspace.com
+
+deny from 81.18.32. # nigeria
+
+deny from 81.18.33.
+
+deny from 81.18.34.
+
+deny from 81.18.35.
+
+deny from 81.18.36.
+
+deny from 81.18.37.
+
+deny from 81.18.38.
+
+deny from 81.18.39.
+
+deny from 81.18.40.
+
+deny from 81.18.41.
+
+deny from 81.18.42.
+
+deny from 81.18.43.
+
+deny from 81.18.44.
+
+deny from 81.18.45.
+
+deny from 81.18.46.
+
+deny from 81.18.47.
+
+deny from 192.115.134. # Israel, hacker heaven
+
+deny from 65.11.200.242 # direct revenue bot
+
+deny from 65.75.128.30 # fotopages.com
+
+deny from 204.8.168. # gator.com
+
+deny from 204.8.169.
+
+deny from 204.8.170.
+
+deny from 204.8.171.
+
+deny from 64.152.73.
+
+deny from 66.111.48.80 # spambot from russia
+
+deny from 68.211.2.61 # clown using site copier on books
+
+deny from 64.42.84.70 # addresses.com spambot
+
+deny from 67.127.13.70 # clown hitting with gethtmlcontents3 from secure site
+
+deny from 80.230. # israel
+
+deny from 80.250.32. # nigeria
+
+deny from 80.250.33.
+
+deny from 80.250.34.
+
+deny from 80.250.35.
+
+deny from 80.250.36.
+
+deny from 80.250.37.
+
+deny from 80.250.38.
+
+deny from 80.250.39.
+
+deny from 80.250.40.
+
+deny from 80.250.41.
+
+deny from 80.250.42.
+
+deny from 80.250.43.
+
+deny from 80.250.44.
+
+deny from 80.250.45.
+
+deny from 80.250.46.
+
+deny from 80.250.47.
+
+deny from 69.28.130. # quepasa.com
+
+deny from 213.8. # israel
+
+deny from 64.42.105. # unknown speed bot
+
+deny from 141.85. # romania
+
+deny from 128.238.55. # polybot
+
+deny from 67.68.89. # unknown masking bot
+
+deny from 66.36.242.25 # unknown bot
+
+deny from 81.199. # israel nigeria etc
+
+deny from 195.111. # hungary
+
+deny from 192.115.106. # clown from Israel speed downloading
+
+deny from 204.94.59. # brandimensions.com bandwidth waster
+
+deny from 12.209.181.242 # speed ripping unknown agent
+
+deny from 217.73. # romania ukraina russia etc
+
+deny from 217.218. # iran
+
+deny from 217.219. # iran
+
+deny from 216.53.84.61 # mail.mccarter.com
+
+deny from 169.132.149.100 # www.mccarter.com - new jersey law firm
+
+deny from 213.226.16. # bulgaria
+
+deny from 216.252.167. # idiot from Ghana demands free merch for many emails
+
+deny from 65.102. # WebContent Internatioanl
+
+deny from 216.163.255.1 # rpa.metlife.com bored employees
+
+deny from 67.127.164.125 # DSL bandwidth waster
+
+deny from 193.253.199. # france SE art-online.com bandwidth waster
+
+deny from 80.179.254. # clown from Israel using downloader
+
+deny from 64.37.103. # spambots and other non customers
+
+deny from 69.61.12.100 # spambot from servershost.net
+
+deny from 69.61.12.101
+
+deny from 66.246.43.167
+
+deny from 64.124.14. # markmonitor.com
+
+deny from 38.144.36.11 # allresearch.com
+
+deny from 38.144.36.12
+
+deny from 38.144.36.13
+
+deny from 38.144.36.14
+
+deny from 38.144.36.15
+
+deny from 38.144.36.16
+
+deny from 38.144.36.17
+
+deny from 206.28.72. # gettyimages.com bandwidth waster
+
+deny from 206.28.73.
+
+deny from 206.28.74.
+
+deny from 206.28.75.
+
+deny from 206.28.76.
+
+deny from 206.28.77.
+
+deny from 206.28.78.
+
+deny from 206.28.79.
+
+deny from 209.73.228.160 # allresearch.com
+
+deny from 209.73.228.161
+
+deny from 209.73.228.162
+
+deny from 209.73.228.163
+
+deny from 209.73.228.164
+
+deny from 209.73.228.165
+
+deny from 209.73.228.166
+
+deny from 209.73.228.167
+
+deny from 209.73.228.168
+
+deny from 209.73.228.169
+
+deny from 209.73.228.170
+
+deny from 209.73.228.171
+
+deny from 209.73.228.172
+
+deny from 209.73.228.173
+
+deny from 209.73.228.174
+
+deny from 209.73.228.175
+
+deny from 158.108. # thailand university
+
+deny from 168.187. # kuwait ministry of communications
+
+deny from 168.188. # korea university
+
+deny from 66.207.120.221 # net-sweeper.com
+
+deny from 66.207.120.222
+
+deny from 66.207.120.223
+
+deny from 66.207.120.224
+
+deny from 66.207.120.225
+
+deny from 66.207.120.226
+
+deny from 66.207.120.227
+
+deny from 66.207.120.228
+
+deny from 66.207.120.229
+
+deny from 66.207.120.230
+
+deny from 66.207.120.231
+
+deny from 66.207.120.232
+
+deny from 66.207.120.233
+
+deny from 66.207.120.234
+
+deny from 66.207.120.235
+
+deny from 167.24. # usaa.com and wastemylife.com p3p client
+
+deny from 192.118.48.247 # icomverse.com (Israel, hacker heaven)
+
+deny from 192.118.48.248
+
+deny from 192.118.48.249
+
+deny from 67.209.128. # clown from TX, wastes bandwidth, abusive feedback
+
+deny from 12.148.209. # NameProtect.com bandwidth waster
+
+deny from 12.148.196. # NameProtect.com bandwidth waster
+
+deny from 212.19.205. # clown from Netherlands impersonating Webcrawler!
+
+deny from 206.190.171.172 # markwatch.com bandwidth waster (4 IPs)
+
+deny from 206.190.171.173
+
+deny from 206.190.171.174
+
+deny from 206.190.171.175
+
+deny from 211.157.
+
+deny from 211.74.
+
+deny from 64.14.202.182
+
+deny from 213.219.11.19
+
+deny from 193.220.178. # abusive crawler from Benin
+
+deny from 24.77.178.1 # abusive OK cable user
+
+deny from 68.65.53.71 # unknown user (java1.4.0_03) slowly crawling whole site!
+
+deny from 198.26.120.13 # unknown .MIL user (keeps hitting one page over and over!)
+
+deny from 63.148.99. # Cyveillance.com bandwidth waster
+
+deny from 65.118.41. # Cyveillance.com bandwidth waster
+
+deny from 192.116.85. # abusive crawler, no ref, no ua, Israel?
+
+deny from 62.119.21. # sweden including picsearch.com bot
+
+deny from 80.179.100. # Israeli bot
+
+deny from 80.248.64.50 # guestbook spambot
+
+deny from 64.106.213. # some clown in Jersey, Russian name, hammering links page
+
+deny from 62.220.103. # Iran
+
+
